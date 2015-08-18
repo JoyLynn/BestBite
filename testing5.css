@@ -21,3 +21,23 @@ p {
 	padding: 0 10px; 
 	display: inline;
 }
+
+.supporting {
+  background-color: #5a5a5a;
+  text-align: center;
+  padding: 40px 0 60px;
+}
+
+.supporting .col {
+  float: left;
+  width: 28%;
+  padding: 50px;
+}
+
+.supporting h1,
+.supporting h2 {
+  color: #ffa800;
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
