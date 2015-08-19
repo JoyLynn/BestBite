@@ -41,3 +41,8 @@ p {
   margin-bottom: 10px;
   text-transform: uppercase;
 }
+
+.footer{
+  display: inline;
+  background-color: #5a5a5a;
+}
