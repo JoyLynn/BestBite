@@ -68,7 +68,7 @@ p {
 }
 
 .section {
-  background-color: #BFBFBF;
+  background-color: #E5E5E5;
   text-align: center;
   padding: 40px 0 60px;
 }
@@ -89,6 +89,7 @@ p {
 
 
 .footer{
+  background-color: #BFBFBF;
   height: 200px;
   display: inline;
   background-color: #5a5a5a;
