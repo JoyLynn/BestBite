@@ -68,7 +68,7 @@ p {
 }
 
 .section {
-  background-color: #5a5a5a;
+  background-color: #BFBFBF;
   text-align: center;
   padding: 40px 0 60px;
 }
@@ -81,7 +81,7 @@ p {
 
 .section h1,
 .section h2 {
-  color: #ffa800;
+  color: red;
   font-size: 20px;
   margin-bottom: 10px;
   text-transform: uppercase;
