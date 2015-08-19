@@ -11,13 +11,17 @@ p {
   font-family: Helvetica, Arial, sans-serif; 
 }
 
+.header {
+  display: inline;
+}
 .nav {
   margin: 0;
   padding: 20px 0;
   display: inline;
 }
 
-.nav a {
+.nav button {
+  float: right;
   color: #5a5a5a;
   font-size: 15px;
   font-weight: bold;
@@ -26,11 +30,6 @@ p {
   padding-left: 10px;
   padding-right: 10px;
   text-transform: uppercase;
-  
-}
-
-.header {
-	display: inline;
 }
 
 .container {
