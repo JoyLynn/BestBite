@@ -22,11 +22,9 @@ p {
 
 .nav button {
   float: right;
-  color: #5a5a5a;
-  font-size: 15px;
-  font-weight: bold;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  color: white;
+  background-color: #E32D2D;
+  margin-left: 10px;
   padding-left: 10px;
   padding-right: 10px;
   text-transform: uppercase;
