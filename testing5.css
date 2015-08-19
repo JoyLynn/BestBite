@@ -11,6 +11,24 @@ p {
   font-family: Helvetica, Arial, sans-serif; 
 }
 
+.nav {
+  margin: 0;
+  padding: 20px 0;
+  display: inline;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-transform: uppercase;
+  
+}
+
 .header {
 	display: inline;
 }
@@ -42,10 +60,14 @@ p {
 
 .supporting h1,
 .supporting h2 {
-  color: #ffa800;
+  color: white;
   font-size: 20px;
   margin-bottom: 10px;
   text-transform: uppercase;
+}
+
+.supporting a {
+  background-color: #A52A2A;
 }
 
 .footer{
