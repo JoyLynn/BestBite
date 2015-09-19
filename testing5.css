@@ -11,12 +11,9 @@ p {
   font-family: Helvetica, Arial, sans-serif; 
 }
 
-.header {
-  display: inline;
-}
 .nav {
   margin: 0;
-  padding: 20px 0;
+  padding: 15px 0;
   display: inline;
 }
 
@@ -30,7 +27,13 @@ p {
   text-transform: uppercase;
 }
 
-.container {
+.nav .col {
+  float: left;
+  width: 40%;
+  padding: 20px 0;
+}
+
+.nav .container {
 	margin: 0 auto;
 	max-width: 930px; 
 	padding: 0 10px; 
@@ -41,6 +44,10 @@ p {
   background-image: url("http://www.prasino.com/images/content/gallery-large_food_cod.jpg");
   height: 600px;
   background-size: cover;
+}
+
+.jumbotron h1{
+  color: white;
 }
 
 .supporting {
@@ -63,6 +70,11 @@ p {
   text-transform: uppercase;
 }
 
+.supporting button{
+  background-color: red;
+  color: white;
+}
+
 .section a {
   background-color: #A52A2A;
 }
@@ -76,7 +88,8 @@ p {
 .section .col {
   float: left;
   width: 28%;
-  padding: 70px;
+  padding: 30px;
+  padding-left: 100px;
 }
 
 .section h1,
